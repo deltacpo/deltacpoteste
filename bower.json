@@ -1,0 +1,17 @@
+{
+  "name": "site test",
+  "homepage": "https://github.com/deltacpo/deltacpoteste",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
