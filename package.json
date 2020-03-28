@@ -1,0 +1,22 @@
+{
+  "name": "site-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltacpo/deltacpoteste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltacpo/deltacpoteste/issues"
+  },
+  "homepage": "https://github.com/deltacpo/deltacpoteste#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
